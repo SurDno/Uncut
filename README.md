@@ -5,6 +5,7 @@ CHANGES
 
 Gameplay:
 * Restored an ability to heal injured teammates using bandages instead of medkits.
+* Restored cut projector behaviour that made it get turned off on dusk and get turned on again on dawn.
 
 Sounds:
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
