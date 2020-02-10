@@ -100,15 +100,25 @@ function generic_physics_binder:update(delta)
 	-- Контроль включения выключения прожектора
 	if hanging_lamp_on then
 		if (level.get_time_hours() >= 5 and level.get_time_hours() < 21) then
-			self.object:get_hanging_lamp():turn_off()
+			local obj = level_object_by_sid(300)
+			if not obj then
+				--abort("TURN_ON [%s]. Target object does not exist", npc:name())
+				return
+			end
+			obj:get_hanging_lamp():turn_off()		
 			printf("turning ON projector")
 			hanging_lamp_on = false
 		end
 	else
 		if not (level.get_time_hours() >= 5 and level.get_time_hours() < 21) then
-			self.object:get_hanging_lamp():turn_on()
-			printf("turning ON projector")
-			hanging_lamp_on = true
+			local obj = level_object_by_sid(300)
+			if not obj then
+				--abort("TURN_ON [%s]. Target object does not exist", npc:name())
+				return
+			end
+			obj:get_hanging_lamp():turn_on()
+			printf("turning ON projector")		
+			hanging_lamp_on = true	
 		end
 	end
 
