@@ -5,6 +5,7 @@ CHANGES
 
 Gameplay:
 * Restored an ability to heal injured teammates using bandages instead of medkits.
+* Restored a requirement to capture the other Cordon level changer and Agroprom level changer in the last phase of Clear Sky Faction War.
 
 Sounds:
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
