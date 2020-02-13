@@ -12,7 +12,7 @@ Sounds:
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
 
 Graphics and visuals:
-*
+* Restored Clear Sky stalker models from Build 3120.
 [+] Made own icons to fix incosistency between NPC visuals and icons due to the lack of those in Build 3120 and lack of any further builds where these icons might be present.
 
 INSTALLATION
