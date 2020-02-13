@@ -2,6 +2,7 @@
 A project dedicated to restoration of various elements cut during the development of S.T.A.L.K.E.R.: Clear Sky.
 
 **CHANGES**
+
 Note: Changes with asterisk next to them are pure cut content restoration. Changes in square brackets are the ones I had to make myself, with either plus or minus describing whether a certain feature is added or removed.
 
 Gameplay:
@@ -21,4 +22,5 @@ Graphics and visuals:
 3. Navigate to the folder with sounds of your language and transfer the 'gamedata' folder from there to your root directory as well.
 
 **SPECIAL THANKS**
+
 OGSM Team — for porting B3120 models into the final game format.
