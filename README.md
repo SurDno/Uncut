@@ -2,6 +2,7 @@
 A project dedicated to restoration of various elements cut during the development of S.T.A.L.K.E.R.: Clear Sky.
 
 **CHANGES**
+
 Note: Changes with asterisk next to them are pure cut content restoration. Changes in square brackets are the ones I had to make myself, with either plus or minus describing whether a certain feature is added or removed.
 
 *Gameplay:*
@@ -23,16 +24,19 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 
 **OPTIONAL ADDONS**
+
 *Alternative Text:*
 Changes raw development text written by programmers for the cut quests to the one that is way richer in details. This is the way the text would have been if game designers were ever rewriting it for final game.
 It changes the dialogue of getting the quest on retrieving the migration map and the dialogue of giving the map to Inquisitor.
 
 **INSTALLATION**
+
 1. Ensure there is no 'gamedata' folder in your game directory - Clear Sky Uncut is incompatible with other mods unless you know how to merge them manually.
 2. Put 'gamedata' folder from the archive in your game directory.
 3. Navigate to the folder with sounds of your language and transfer the 'gamedata' folder from there to your root directory as well.
 4. Navigate to optional addons folder, pick the ones you'd like to have 
 
 **SPECIAL THANKS**
+
 OGSM Team — for porting B3120 models into the final game format.
 JoeJack — huge help with writing for alternative text optional addon.
