@@ -16,6 +16,10 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 **Sounds:**
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
 
+**Dialogues:**
+* Restored a set of unique Scar answers to Suslov and Cold phrases.
+* Restored a unique Scar answer to the long starting dialogue with Suslov after returning to CS base after second emission happens.
+
 **Graphics and visuals:**
 * Restored Clear Sky stalker models from Build 3120.
 
@@ -38,3 +42,4 @@ SPECIAL THANKS
 =======
 **OGSM Team** — for porting B3120 models into the final game format.
 **JoeJack** — huge help with writing for alternative text optional addon.
+**Nemrtvi** — a lot of work done going through the text files finding unused strings.
