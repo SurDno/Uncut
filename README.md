@@ -19,6 +19,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 **Dialogues:**
 * Restored a set of unique Scar answers to Suslov and Cold phrases.
 * Restored a unique Scar answer to the long starting dialogue with Suslov after returning to CS base after second emission happens.
+* Restored a dialogue with Flea Market night trader where you got to convince him you're trustworthy before trading.
 
 **Graphics and visuals:**
 * Restored Clear Sky stalker models from Build 3120.
