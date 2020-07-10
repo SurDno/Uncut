@@ -7,7 +7,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 **Gameplay:**
 * Restored an ability to heal injured teammates using bandages instead of medkits.
 * Restored a requirement to capture the other Cordon level changer and Agroprom level changer in the last phase of Clear Sky Faction War.
-* Made Duty Scar neutral towards bandits and Bandit Scar neutral towards Duty in order to restore two dialogues about switching factions. Duty — Bandit relationship has been left unchanged.
+* Restored random emissions on Great Swamps by uncommenting a line in a script. They start happening if you return to the location after visiting Cordon at least once.
 
 **Quests:**
 * Find the migration map — descend into the Agroprom Undeground to find the lost migration map. The quest is given by Inquisitor on Duty base.
@@ -21,6 +21,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Restored a set of unique Scar answers to Suslov and Cold phrases.
 * Restored a unique Scar answer to the long starting dialogue with Suslov after returning to CS base after second emission happens.
 * Restored a dialogue with Flea Market night trader where you got to convince him you're trustworthy before trading.
+* Made Duty Scar neutral towards bandits and Bandit Scar neutral towards Duty in order to restore two dialogues about switching factions. Duty — Bandit relationship has been left unchanged.
 
 **Graphics and visuals:**
 * Restored Clear Sky stalker models from Build 3120.
