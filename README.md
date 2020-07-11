@@ -14,6 +14,9 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 [+] Added a previously missing reward - a pack of AP 5,45 ammo and 1500 RU. It was originally a flash drive with data on modifying the gas exhaust of a machine gun as well as GP-25 Koster, but that was later transferred to Hermit's quest and this one was left rewardless.
 
+**Characters:**
+* Made Professor Beanpolev move between unused points in his shack instead of staying in the same place.
+
 **Sounds:**
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
 
@@ -43,6 +46,7 @@ INSTALLATION
 
 SPECIAL THANKS
 =======
-**OGSM Team** — for porting B3120 models into the final game format.
+**Decane** — huge help with getting xr_smartcover scheme to support def_state_moving parameter.
 **JoeJack** — huge help with writing for alternative text optional addon.
 **Nemrtvi** — a lot of work done going through the text files finding unused strings.
+**OGSM Team** — for porting B3120 models into the final game format.
