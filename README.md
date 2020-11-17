@@ -2,16 +2,18 @@ A project dedicated to restoration of various elements cut during the developmen
 
 CHANGES
 =======
-Note: Changes with asterisk next to them are pure cut content restoration. Changes in square brackets are the ones I had to make myself, with either plus or minus describing whether a certain feature is added or removed.
+Note: Changes with asterisk next to them are pure cut content restoration. Changes in square brackets are the ones I had to make myself, with either plus, minus or tilde describing whether a certain feature is added, removed or changed.
 
 **Gameplay:**
 * Restored an ability to heal injured teammates using bandages instead of medkits.
 * Restored a requirement to capture the other Cordon level changer and Agroprom level changer in the last phase of Clear Sky Faction War.
 * Restored random emissions on Great Swamps by uncommenting a line in a script. They start happening if you return to the location after visiting Cordon at least once.
+* Brought back artifact-dropping boxes and cases. These were a concept in SoC which clearly made it to CS (devs hid the boxes all around the maps) but since no maps have artifacts in drop lists, the containers are essentially empty in vanilla.
+[~] Since the artifact drop was removed early on, way before artifact overhaul, SoC artifacts have been replaced with CS artifacts, with drop chance depending on rarity and price. Rarest artifacts (namely Firefly, Fire, Goldfish and Snowflake) never drop from containers, just the way most rare SoC artifacts don't.
+[+] Made own progression with rarer artifacts dropping on norther locations, similar to the way artifact progression is implemented in SoC and the way ammo progression is implemented in CS.
 
 **Quests:**
 * Find the migration map — descend into the Agroprom Undeground to find the lost migration map. The quest is given by Inquisitor on Duty base.
-
 [+] Added a previously missing reward - a pack of AP 5,45 ammo and 1500 RU. It was originally a flash drive with data on modifying the gas exhaust of a machine gun as well as GP-25 Koster, but that was later transferred to Hermit's quest and this one was left rewardless.
 
 **Characters:**
@@ -28,7 +30,6 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 **Graphics and visuals:**
 * Restored Clear Sky stalker models from Build 3120.
-
 [+] Made own icons to fix incosistency between NPC visuals and icons due to the lack of those in Build 3120 and lack of any further builds where these icons might be present.
 
 OPTIONAL ADDONS
