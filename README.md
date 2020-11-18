@@ -27,10 +27,15 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Restored a unique Scar answer to the long starting dialogue with Suslov after returning to CS base after second emission happens.
 * Restored a dialogue with Flea Market night trader where you got to convince him you're trustworthy before trading.
 * Made Duty Scar neutral towards bandits and Bandit Scar neutral towards Duty in order to restore two dialogues about switching factions. Duty — Bandit relationship has been left unchanged.
+* Spawned two loner squads at otherwise unused smart terrains - Shore barricades and Bonfire on shore - in order to restore unique loner Great Swamps dialogues. Since these smart terrains do not have links to any other sublocations, this does not affect faction war in any way.
 
 **Graphics and visuals:**
 * Restored Clear Sky stalker models from Build 3120.
 [+] Made own icons to fix incosistency between NPC visuals and icons due to the lack of those in Build 3120 and lack of any further builds where these icons might be present.
+
+BUGFIXES
+=======
+* Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo.
 
 OPTIONAL ADDONS
 =======
