@@ -43,6 +43,17 @@ OPTIONAL ADDONS
 Changes raw development text written by programmers for the cut quests to the one that is way richer in details. This is the way the text would have been if game designers were ever rewriting it for final game.
 It changes the dialogue of getting the quest on retrieving the migration map and the dialogue of giving the map to Inquisitor.
 
+FAQ
+=======
+Q: Is that like a prerelease build?
+A: No. This is more of a mash up of content cut during very different points of development.
+
+Q: Is it faithful to developers' intentions?
+A: No. GSC deemed most content removed from the game as unsuitable. Besides, some things cannot be restored properly because they had not been fully done by the point when they got removed.
+
+Q: Is that suitable for a first playthrough?
+A: God no. Just play vanilla.
+
 INSTALLATION
 =======
 1. Ensure there is no 'gamedata' folder in your game directory - Clear Sky Uncut is incompatible with other mods unless you know how to merge them manually.
