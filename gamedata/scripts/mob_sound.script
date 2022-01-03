@@ -78,9 +78,7 @@ local snd = {
     },
 
   trader_bye_garbage = {
- 	[[characters_voice\scenario\escape\esc_trader_bye_1]],
-	[[characters_voice\scenario\escape\esc_trader_bye_2]],
-	[[characters_voice\scenario\escape\esc_trader_bye_2]]
+ 	[[characters_voice\scenario\escape\esc_trader_bye_1]]
     },
 
    trader_bye_give_habar = {
@@ -95,6 +93,9 @@ local snd = {
 	},
 
 	trader_bye = {
+ 	[[characters_voice\scenario\escape\esc_trader_bye_1]],
+	[[characters_voice\scenario\escape\esc_trader_bye_2]],
+	[[characters_voice\scenario\escape\esc_trader_bye_3]]
 	},
 
 	trader_exchanged = {
