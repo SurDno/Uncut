@@ -9,7 +9,9 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Restored a requirement to capture the other Cordon level changer and Agroprom level changer in the last phase of Clear Sky Faction War.
 * Restored random emissions on Great Swamps by uncommenting a line in a script. They start happening if you return to the location after visiting Cordon at least once.
 * Brought back artifact-dropping boxes and cases. These were a concept in SoC which clearly made it to CS (devs hid the boxes all around the maps) but since no maps have artifacts in drop lists, the containers are essentially empty in vanilla.
+
 [~] Since the artifact drop was removed early on, way before artifact overhaul, SoC artifacts have been replaced with CS artifacts, with drop chance depending on rarity and price. Rarest artifacts (namely Firefly, Fire, Goldfish and Snowflake) never drop from containers, just the way most rare SoC artifacts don't.
+
 [+] Made own progression with rarer artifacts dropping on norther locations, similar to the way artifact progression is implemented in SoC and the way ammo progression is implemented in CS.
 
 **Quests:**
@@ -21,6 +23,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 **Sounds:**
 * Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter was a copy of another, an original file has been ported from Build 3436.
+* Restored two unused Sidorovich farewell phrases.
 
 **Dialogues:**
 * Restored a set of unique Scar answers to Suslov and Cold phrases.
