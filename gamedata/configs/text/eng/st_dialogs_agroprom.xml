@@ -316,31 +316,31 @@
 		<text>Got any sort of job for me?</text>
 	</string>
 	<string id="agr_duty_zooman_quest_1">
-		<text>Yes, I do have a job available for you. I used to work with a very experienced hunter and craftsman of the zone, his name was Carpenter. The man was a legend not only at hunting, but also at capturing animals, knew every their habit. Him and I worked together a long time until he decided to leave the zone, but before he left the zone he gave me something extremely valuable. A migration map. What is it you ask? It is a map that details the patterns in which mutants move around due to the seasons of the zone. It is a very useful thing if you want to know which mutant is where at what time. The map was amazing, it helped me with everything but anyways. I gave the map to an enthusiastic loner named Losev to go catch some of these mutants that hunt during the night and should be hiding out in the underground at day. Alas, he hasn't shown up since then. I need you to go down to the underground facility, find the loner either dead or alive and retrieve the map for me. If you do so I'll pay you quite handsomely. So, are you up to it?</text>
+		<text>Yeah, I got something. A stalker came to my menagerie recently, a master of hunter's craft just like me. Well, he was not really interested in looking at my effigies but when it came to catching beasts alive, we really hit it off, yeah... Anyway, he blurted out that he's marked the habits of various rare species of the Zone on his PDA, the way they move and what they're influenced by. Gee! Can you imagine how that information could broaden my collection and help Duty's cause as a whole?.. Right, so I offered to buy the map or at least share it, but he kept refusing, saying he needs it for himself. Well, I could not convince him, and he left, according to blockpost guys, heading straight to those damn manifolds... How is that, huh? I believe the guy is unlikely to survive after the tunnels collapsed, as we're barely holding the mutants off on the outside, but he must still have the map. If you get me the PDA with it on, I won't hesitate to reward you. So, are you interested?</text>
 	</string>
 	<string id="agr_duty_zooman_quest_11">
-		<text>No.</text>
+		<text>Sorry, bud, nothing else for ya.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_2">
-		<text>Yes.</text>
+		<text>Yes. Where should I look for him?</text>
 	</string>
 	<string id="agr_duty_zooman_quest_22">
-		<text>No.</text>
+		<text>Not interested yet.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_complete_0">
 		<text>I'm here about that job.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_complete_1">
-		<text>How is it going? Have you completed the job?</text>
+		<text>I'm all ears.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_complete_2">
-		<text>Yes, here's the map. Losev stayed there though.</text>
+		<text>I've found the map, Losev stayed there though.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_complete_22">
-		<text>I'm on it.</text>
+		<text>Nothing to report yet.</text>
 	</string>
 	<string id="agr_duty_zooman_quest_complete_3">
-		<text>Well damn, Losev was a good man. Let us hope his death was not in vain, let me see the PDA... Well, all the information is here and nothing is encrypted. Thank you for retrieving this, you are helping to save the world from the horrible scurge of mutants. Here is your payment as promised.</text>
+		<text>Aw, what a hunter we lost!.. Aight, it can't be helped. Here, take this: I tried to convince him to give me the map with that, but you definetily need it more now.</text>
 	</string>
 	<string id="agr_leader_about_dolg_0">
 		<text>Tell me about your faction.</text>
