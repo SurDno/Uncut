@@ -5,14 +5,11 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 ## Gameplay Changes
 * Restored an ability to heal injured teammates using bandages instead of medkits.
-* Brought back artifact-dropping boxes and cases. These were a concept in SoC which clearly made it to CS (devs hid the boxes all around the maps) but since no maps have artifacts in drop lists, the containers are essentially empty in vanilla.
-  - [~] Since the artifact drop was removed early on, way before artifact overhaul, SoC artifacts have been replaced with CS artifacts, with drop chance depending on rarity and price. Rarest artifacts (namely Firefly, Fire, Goldfish and Snowflake) never drop from containers, just the way most rare SoC artifacts don't.
-  - [+] Made own progression with rarer artifacts dropping on norther locations, similar to the way artifact progression is implemented in SoC and the way ammo progression is implemented in CS.
 
 ## Quest Changes
-* **NEW** - Find the migration map — descend into the Agroprom Undeground to find the lost migration map. The quest is given by Inquisitor on Duty base.
-  - [+] Added a previously missing reward - a pack of AP 5,45 ammo and 1500 RU. It was originally a flash drive with data on modifying the gas exhaust of a machine gun as well as GP-25 Koster, but that was later transferred to Hermit's quest and this one was left rewardless.
-  - [~] Changed dialogue from early draft written by programmers to the one that is way richer in details. This is a recreation of the way the text would have been if game designers were ever rewriting it for final game.
+* NEW - Find the migration map — descend into the Agroprom Undeground to find the lost migration map. The quest is given by Inquisitor on Duty base.
+** [+] Added a previously missing reward - a pack of AP 5,45 ammo and 1500 RU. It was originally a flash drive with data on modifying the gas exhaust of a machine gun as well as GP-25 Koster, but that was later transferred to Hermit's quest and this one was left rewardless.
+** [~] Changed dialogue from early draft written by programmers to the one that is way richer in details. This is a recreation of the way the text would have been if game designers were ever rewriting it for final game.
 * Restored a requirement to capture the other Cordon level changer and Agroprom level changer in the last phase of Clear Sky Faction War. - SurDno
 
 ## Character Changes
@@ -29,9 +26,9 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Made Duty Scar neutral towards bandits and Bandit Scar neutral towards Duty in order to restore two dialogues about switching factions. Duty — Bandit relationship has been left unchanged.
 * Spawned two loner squads at otherwise unused smart terrains - Shore barricades and Bonfire on shore - in order to restore unique loner Great Swamps dialogues. Since these smart terrains do not have links to any other sublocations, this does not affect faction war in any way.
 
-## Graphics&Visuals Changes
+## Graphics & Visuals Changes
 * Restored Clear Sky stalker models from Build 3120.
-  - [+] Made own icons to fix incosistency between NPC visuals as icons were first developed only after the model change.
+** [+] Made own icons to fix incosistency between NPC visuals as icons were first developed only after the model change.
 
 # BUGFIXES
 * Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo.
@@ -56,9 +53,8 @@ A: Providing an interactive tour into the world of Clear Sky cut and unused cont
 1. Ensure there is no 'gamedata' folder in your game directory - Clear Sky Uncut is incompatible with other mods unless you know how to merge them manually.
 2. Put 'gamedata' folder from the archive in your game directory.
 3. Navigate to the folder with sounds of your language and transfer the 'gamedata' folder from there to your root directory as well.
-4. Navigate to optional addons folder, pick the ones you'd like to have and, again, copy the 'gamedata' folder from there to where your game lies.
 
 # SPECIAL THANKS
-**Decane** — huge help with getting xr_smartcover scheme to support def_state_moving parameter.
-**Nemrtvi** — a lot of work done going through the text files finding unused strings.
-**OGSM Team** — for porting B3120 models into the final game format.
+* **Decane** — huge help with getting xr_smartcover scheme to support def_state_moving parameter.
+* **Nemrtvi** — a lot of work done going through the text files finding unused strings.
+* **OGSM Team** — for porting B3120 models into the final game format.
