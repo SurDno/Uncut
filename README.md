@@ -2,7 +2,7 @@ A project dedicated to restoration of various elements cut during the developmen
 
 # OVERVIEW
 * Restores over 5 cut and early elements of release locations.
-* Restores 8 previously unused voice lines spoken by 2 characters.
+* Restores 44 previously unused voice lines.
 * Restores 38 lines of dialogue with 6 unique characters and 22 lines of dialogue with generic NPCs.
 * Restores 1 unique cut quest and 2 generic faction Faction War quests.
 
@@ -23,8 +23,10 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
   - [+] Added logic to move once a minute if the player is not currently talking to the character. - SurDno
 
 ## Sound Changes
-* Restored Father Valerian's greeting and farewell phrases. Besides, since one of the latter lienes was a duplicate in release files, an original file has been ported from Build 3436. - SurDno
-* Restored two unused Sidorovich farewell phrases. - SurDno
+* Restored 6 Father Valerian's greeting and farewell phrases. Besides, since one of the latter lienes was a duplicate in release files, an original file has been ported from Build 3436. - SurDno
+* Restored 2 unused Sidorovich farewell phrases. - SurDno
+* Restored 36 unused background phrases for Clear Sky soldiers at CNPP. - SurDno
+  - [~] Added logic to play once every 4-7 seconds between the starting and ending cutscenes.
 
 ## Location Changes
 * Great Swamps:
@@ -45,7 +47,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 ## Graphics & Visuals Changes
 * Restored Clear Sky stalker models from Build 3120. - SurDno, OGSM Team
-  - [+] Made own icons to fix incosistency between NPC visuals as icons were created only after the model change. - SurDno
+  - [+] Made own icons to fix incosistency between NPC visuals and icons were created only after the model change. - SurDno
 
 # BUGFIXES
 * Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo. - Decane
