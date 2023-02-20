@@ -48,6 +48,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 ## Graphics & Visuals Changes
 * Restored Clear Sky stalker models from Build 3120. - SurDno, OGSM Team
   - [+] Made own icons to fix incosistency between NPC visuals and icons were created only after the model change. - SurDno
+* Added two elements present on Forester's texture that were missing from the model's UV - a radio and a pistol. - Pirat
 
 # BUGFIXES
 * Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo. - Decane
