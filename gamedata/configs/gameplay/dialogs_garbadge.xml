@@ -1555,11 +1555,11 @@
             </phrase>
             <phrase id="11">
                 <text>gar_bandit_robbery_11</text>
-                <precondition>dialogs_garbage.always_false</precondition>
                 <next>111</next>
             </phrase>
             <phrase id="12">
                 <text>gar_bandit_robbery_12</text>
+                <precondition>dialogs_garbage.always_false</precondition>
                 <next>121</next>
             </phrase>
         </phrase_list>

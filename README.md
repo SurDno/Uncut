@@ -11,7 +11,8 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 ## Gameplay Changes
 * Restored an ability to heal injured teammates using bandages instead of medkits. - SurDno
-
+* Restored pre-1.5.03 bandit blockpost behaviour with them taking not just the money but also all the items with the exception of Scar's most expensive pistol and ammo for it. The things are now again stored in a box behind the closed gate at bandit base and can be taken back after clearing Depot or joining bandits.
+  
 ## Quest Changes
 * NEW - Find the migration map — descend into the Agroprom Undeground to find the lost migration map. The quest is given by Inquisitor on Duty base. - SurDno
   - [+] Added a previously missing reward - a pack of AP 5,45 ammo and 1500 RU. It was originally a flash drive with data on modifying the gas exhaust of a machine gun as well as GP-25 Koster, but that was later transferred to Hermit's quest and this one was left rewardless. - SurDno
@@ -53,6 +54,8 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 # BUGFIXES
 * Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo. - Decane
 * Fixed Professor Beanpolev not using the script-specified animation when moving between points. - Decane
+* Fixed bandit robberies not taking SIP-t 200M and any modified pistols into consideration during the search for most expensive pistol. - SurDno
+* Fixed bandit robberies leaving 9 x 18 ammo instead of 9 x 19 if player's most expensive pistol is the upgraded PMm they took from renegades at Swamps. - SurDno
 
 # FAQ
 * Q: Is that like a prerelease build?
