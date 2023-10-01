@@ -11,6 +11,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 ## Gameplay Changes
 * Restored an ability to heal injured teammates using bandages instead of medkits. - SurDno
+* Restored cut behaviour with camp inhabitants losing disposition towards player upon stealing loot from their camp box. - SurDno
 * Restored pre-1.5.03 bandit blockpost behaviour with them taking not just the money but also all the items with the exception of Scar's most expensive pistol and ammo for it. The things are now again stored in a box behind the closed gate at bandit base and can be taken back after clearing Depot or joining bandits.
   
 ## Quest Changes
