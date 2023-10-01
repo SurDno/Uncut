@@ -117,11 +117,16 @@ local snd = {
 	monolog3 = {
 	},
 
+	red_forester_greet_first = {
+		[[characters_voice\scenario\red_forest\red_forester_greet_1]]
+	},
+
 	red_forester_meet = {
 		[[characters_voice\scenario\red_forest\red_forester_meet_hello_0]],
 		[[characters_voice\scenario\red_forest\red_forester_meet_hello_1]],
 		[[characters_voice\scenario\red_forest\red_forester_meet_hello_2]]
 	},
+	
 	red_forester_meet_bye = {
 		[[characters_voice\scenario\red_forest\red_forester_hello_bye_0]],
 		[[characters_voice\scenario\red_forest\red_forester_hello_bye_1]],

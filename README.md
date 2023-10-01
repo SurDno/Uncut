@@ -2,7 +2,7 @@ A project dedicated to restoration of various elements cut during the developmen
 
 # OVERVIEW
 * Restores over 5 cut and early elements of release locations.
-* Restores 44 previously unused voice lines.
+* Restores 45 previously unused voice lines.
 * Restores 38 lines of dialogue with 6 unique characters and 22 lines of dialogue with generic NPCs.
 * Restores 1 unique cut quest and 2 generic faction Faction War quests.
 
@@ -30,6 +30,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Restored 2 unused Sidorovich farewell phrases. - SurDno
 * Restored 36 unused background phrases for Clear Sky soldiers at CNPP. - SurDno
   - [~] Added logic to play once every 4-7 seconds between the starting and ending cutscenes.
+* Restored unused Forester voiceline meant for initial greeting. It is now used prior to the first dialog. - SurDno
 
 ## Location Changes
 * Great Swamps:
