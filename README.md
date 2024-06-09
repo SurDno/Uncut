@@ -52,6 +52,9 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 ## Graphics & Visuals Changes
 * Added two elements present on Forester's texture that were missing from the model's UV - a radio and a pistol. - Pirat
 
+## UI Changes
+* Restored cleaner-looking PDA textures that appeared on late May concept arts but was never implemented in-game. - SurDno
+
 # BUGFIXES
 * Fixed the game crashing when a squad occupies shore barricades smart terrain due to animation name typo. - Decane
 * Fixed Professor Beanpolev not using the script-specified animation when moving between points. - Decane
