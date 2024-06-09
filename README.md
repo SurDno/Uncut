@@ -34,7 +34,7 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 
 ## Location Changes
 * Great Swamps:
-  - Ported an early version of Clear Sky base from the model source leak. Most notable changes include Gray's shack having holes in the floor, making AKM-74/2 possible to take without bug abuse, and the fireplace in Lebedev's building being two-sided. - Pirat
+  - Ported an early version of Clear Sky base from the model source leak. Most notable changes include Gray's shack having holes in the floor, making AKM-74/2U possible to take without bug abuse, and the fireplace in Lebedev's building being two-sided. - Pirat
   - Ported fishing hamlet texturing from Build 3120. - Pirat
   - Ported pump station from Build 3120. Most notable changes include the pipes at the roof having smoke coming out of them and the building looking less run-down. - Pirat
   - Restored slimey water around pump station, which can be seen on prerelease screenshots and concept arts. - Pirat
@@ -50,8 +50,6 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 * Spawned two loner squads at otherwise unused smart terrains - Shore barricades and Bonfire on shore - in order to restore unique loner Great Swamps dialogues and populate otherwise empty camps. Since these smart terrains do not have links to any others, this does not affect faction war in any way. - SurDno
 
 ## Graphics & Visuals Changes
-* Restored Clear Sky stalker models from Build 3120. - SurDno, OGSM Team
-  - [+] Made own icons to fix incosistency between NPC visuals and icons were created only after the model change. - SurDno
 * Added two elements present on Forester's texture that were missing from the model's UV - a radio and a pistol. - Pirat
 
 # BUGFIXES
@@ -90,4 +88,3 @@ Note: Changes with asterisk next to them are pure cut content restoration. Chang
 ## Special Thanks
 * **Decane** — huge help with getting xr_smartcover scheme to support def_state_moving parameter.
 * **Nemrtvi** — a lot of work done going through the text files finding unused strings.
-* **OGSM Team** — porting B3120 models into the final game format.
